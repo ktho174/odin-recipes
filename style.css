@@ -43,3 +43,8 @@ img {
 .text {
     margin-left: 3px;
 }
+
+.home-button {
+    margin-top: 10px;
+    text-align: center;
+}
